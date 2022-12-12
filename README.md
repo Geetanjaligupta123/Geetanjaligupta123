@@ -1,4 +1,4 @@
-[![MasterHead](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
+
 <h1 align="center">Hi 👋, I'm Geetanjali Gupta</h1>
 <h3 align="center">I'm here to Learn && Contribute</h3>
 <p style="text-align:center;"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"></p>
