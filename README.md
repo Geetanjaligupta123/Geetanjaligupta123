@@ -9,8 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetanjaligupta123" alt="geetanjaligupta123" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Here's something about me :
 
-- 🔭 I’m currently working on **Web Development**
+- 💁‍♀️ I'm a Computer Science Student at Galgotias College of Engineering & Technology. 
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -18,7 +19,10 @@
 
 - 📫 How to reach me **geetanjaligupta451@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Funny**😎🤓
+
+- ⚡ I am also an Artist 🎨🎨
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
